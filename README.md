@@ -11,9 +11,13 @@ The site features:
 
 Technical Details:
   -Built with HTML5
+  
   -Styled with inline CSS
+  
   -Mobile-friendly design
+  
   -Hosted on Neocities
+  
 
 Key Features:
 ✔ Visual storytelling through image integration
