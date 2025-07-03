@@ -1,29 +1,38 @@
-Project Name: Event Promotion Website
+# Event Promotion Website
 
-Project Description:
-Designed and developed a vibrant event promotion website showcasing upcoming events with engaging visuals and clear event details. 
-The site features:
-  1.Clean, centered layout with attention-grabbing headings
-  2.Eye-catching event banners with key information (free entry, food policies)
-  3.Organized content with bullet-point highlights for easy scanning
-  4.Contact information section for visitor inquiries
-  5.External link integration (Myntra fashion store)
+![image](https://github.com/user-attachments/assets/f98cbc27-5b5a-411d-85b7-981e605fbe06)
+![image](https://github.com/user-attachments/assets/d1e26f25-e57e-44b5-884f-5b4dc3414b16)
 
-Technical Details:
-  -Built with HTML5
-  
-  -Styled with inline CSS
-  
-  -Mobile-friendly design
-  
-  -Hosted on Neocities
-  
 
-Key Features:
-✔ Visual storytelling through image integration
-✔ Clear event policies (pets, pricing)
-✔ Call-to-action elements
-✔ Professional contact section
+A vibrant event promotion website built with HTML and CSS, showcasing upcoming events with engaging visuals and clear details.
 
-Purpose:
-Created to demonstrate front-end web development skills while providing an attractive platform for event promotion. The design balances aesthetics with functionality to effectively communicate event details to potential attendees.
+## 🔍 Project Description
+Designed and developed a responsive static website to promote events, featuring:
+- Clean, centered layout with attention-grabbing headings  
+- Eye-catching event banners with key information (free entry, food policies)  
+- Organized bullet-point highlights for easy scanning  
+- Contact information section (phone, email, address)  
+- External link integration (e.g., Myntra fashion store)  
+
+## 🛠️ Technologies Used
+- **Frontend:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![Inline CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+- **Hosting:** Neocities  
+
+## ✨ Key Features
+✔ Visual storytelling through embedded images  
+✔ Clear event policies (pets, pricing)  
+✔ Call-to-action elements (e.g., "Don’t Miss Out!")  
+✔ Mobile-friendly design  
+
+## � Purpose
+Demonstrates front-end web development skills while providing an attractive platform for event promotion. Balances aesthetics with functionality to communicate event details effectively.
+
+## 🚀 Live Demo
+Hosted on [Neocities]((https://th7cipherz.neocities.org/Events/event)) 
+
+## 📸 Screenshots
+| Photo Gallery Event | Fashion Store Pop-Up |
+|---------------------|----------------------|
+| ![Event 1](img/event1.png) | ![Event 2](img/event2.png) |
